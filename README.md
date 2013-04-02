@@ -1,6 +1,6 @@
 app4ustcinfo
 
-# https://twitter.com/futeng
+# https://twitter.com/fu_teng
 # ifuteng@gmail.com
 
 code sets from futeng 
