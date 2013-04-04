@@ -1,12 +1,4 @@
-app4ustcinfo
-
-# https://twitter.com/fu_teng
-# ifuteng@gmail.com
-
-code sets from futeng 
+本Repository仅编写若干方便工作的小程序，同时也是为了练习使用github而设置。
 
 app for www.ustcinfo.com
 
-2013/4/3 test 
-
-2013/4/3 gufei
